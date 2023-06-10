@@ -34,3 +34,11 @@ html{
   border-radius: 50%;
   height: 100px;
 }
+
+.nav{
+  background-color: #ffffffb4;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+}
